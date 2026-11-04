@@ -57,7 +57,6 @@ I take responsibility for the accuracy, originality and understanding of everyth
 
 
 
-## AI use declaration
 
 
 
